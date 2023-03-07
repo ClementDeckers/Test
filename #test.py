@@ -1,4 +1,6 @@
 #test
 "coucou brieuc comment ça va ?"
-def coucou:
+def coucou():
     return 2
+
+print(coucou())
