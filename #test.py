@@ -5,3 +5,5 @@ def coucou():
 
 print(coucou())
 #tu veux une blague ?
+def ff():
+    print("désolé pour ce commit")
