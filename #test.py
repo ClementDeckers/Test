@@ -9,3 +9,6 @@ def ff():
     print("désolé pour ce commit")
 def Brieucadeconne(pls):
     return pls
+
+def CoucouOSCar():
+    return 2
